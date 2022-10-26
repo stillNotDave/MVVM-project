@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleMVVM</string>
+    <string name="save">save</string>
+    <string name="cancel">cancel</string>
+    <string name="change_color">change color</string>
+    <string name="selected">selected</string>
+    <string name="changed_color">change color</string>
+    <string name="change_color_screen_title">change color screen title</string>
+</resources>
